@@ -5,8 +5,6 @@
 Transitioning into Cybersecurity GRC excites me because I can apply my expertise to continuously improve risk management, strengthen compliance frameworks, and drive effective governance.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Cybersecurity Governance                      | <a href="https://github.com/Efun-D/IT-Policy-Document-for-an-SME/tree/main">IT Policy for a Training Insitute</a>|
