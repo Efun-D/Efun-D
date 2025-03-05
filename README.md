@@ -11,8 +11,6 @@ Transitioning into Cybersecurity GRC excites me because I can apply my expertise
 |-----------------------------------------------|----------------------------|
 | Cybersecurity Governance                      | <a href="https://github.com/Efun-D/IT-Policy-Document-for-an-SME/tree/main">IT Policy for a Training Insitute</a>|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ## Certifications
 
