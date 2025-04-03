@@ -9,6 +9,7 @@ Transitioning into Cybersecurity GRC excites me because I can apply my expertise
 |-----------------------------------------------|----------------------------|
 | Cybersecurity Governance                      | <a href="https://github.com/Efun-D/IT-Policy-Document-for-an-SME/tree/main">IT Policy for a Training Insitute</a>|
 | Audit, Compliance, Risk Management            | <a href="https://github.com/Efun-D/NIST-800-53-AC-6-Least-Privilege-Audit/tree/main">NIST-800-53-AC-6-Least-Privilege-Audit</a>|
+| Third Party Risk Management (TPRM)            | <a href="https://github.com/Efun-D/TPRM-Program-Design">TPRM Program Design</a>|
 
 ## Certifications
 
