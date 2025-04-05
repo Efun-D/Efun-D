@@ -12,6 +12,7 @@ Transitioning into Cybersecurity GRC excites me because I can apply my expertise
 | Third Party Risk Management (TPRM)            | <a href="https://github.com/Efun-D/TPRM-Program-Design">TPRM Program Design</a>|
 | Cybersecurity Contract Risk Review            | <a href="https://github.com/Efun-D/Cybersecurity-Contract-Risk-Review">Cybersecurity Contract Risk Review</a>|
 | Risk Monitoring                               | <a href="https://github.com/Efun-D/Continuous-Monitoring-Program-for-Third-Party-Risk">Continuous-Monitoring-Program-for-Third-Party-Risk</a>|
+| Incident Response Planning                    | <a href="https://github.com/Efun-D/Incident-Response-Planning">Incident Response Planning</a>|
 
 ## Certifications
 
@@ -25,3 +26,4 @@ Transitioning into Cybersecurity GRC excites me because I can apply my expertise
 - <a href="https://github.com/Efun-D/TPRM-Program-Design">TPRM Program Design</a>
 - <a href="https://github.com/Efun-D/Cybersecurity-Contract-Risk-Review">Cybersecurity Contract Risk Review</a>
 - <a href="https://github.com/Efun-D/Continuous-Monitoring-Program-for-Third-Party-Risk">Continuous-Monitoring-Program-for-Third-Party-Risk</a>
+- <a href="https://github.com/Efun-D/Incident-Response-Planning">Incident Response Planning</a>
